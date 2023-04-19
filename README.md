@@ -8,5 +8,4 @@ There is labs by computer graphics realised in QT with QWidget and QGraphicsView
 ![lab2-2](https://user-images.githubusercontent.com/46199091/233026068-0985c86b-d751-41a3-8af2-76d32f0abbfb.gif)
 
  - Moving pyramid around yourself but unvisible faces will not drow (just continue of second lab) <br/>
- 
- 
+![lab3](https://user-images.githubusercontent.com/46199091/233026457-01b7aac0-3802-4d3c-acb0-9677967a29a3.gif)
